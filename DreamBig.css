@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.content {
+	background-image: url(https://thesleepdoctor.com/wp-content/uploads/2018/10/1a-single-tree-in-a-field-with-beautiful-space-background_HXOpN1Mg0-1080x675.jpg);
+	color: red;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 90%;
+	height: 100vh;
+	display: flex;
+}
+#word {
+	top: 40%;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	font-size: 40px;
+}
+
